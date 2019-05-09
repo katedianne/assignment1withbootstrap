@@ -1,0 +1,85 @@
+.sample{
+    width: 140px;
+}
+
+.branchoutimg{
+    width: 100%;
+}
+
+p{
+    font-size: 12px;
+}
+
+.sampleimg{
+    width: 190px;
+}
+
+.navbar{
+    background-color: #3b3b3b;
+    padding: 0px!important;
+    
+}
+
+h2{
+    margin-left: 200px;
+    margin-top: -100px!important;
+    padding-bottom: 20px;
+}
+
+.navbar{
+    padding: 0px 170px 0px!important;
+}
+
+.navbg{
+    background-color: #0b6fc4;
+    border-radius: 15px 0px 0px 0px;
+}
+
+.navigation, .newscontent, .caption, .button{
+    color: white;
+}
+
+.search{
+    border-radius: 10px;
+    font-size: 12px;
+}
+
+.sidebar{
+    background-color: #06b8ff;
+    padding-top: 20px;
+    border-bottom-left-radius: 10px;
+    border-style: solid;
+    border-width: 0px 1px 0px 0px;
+    border-color: white;
+}
+
+.newsarticle{
+    background-color: #ededed;
+    margin: 0px -15px !important;
+    border-bottom-left-radius: 20px;
+}
+.branchout{
+    padding: 0px!important;
+    background-color: #f1f1f1;
+    background-image: url("branchout.jpg");
+    background-size: cover;
+}
+
+.personaltouch, .aboutus{
+    background-color: #f1f1f1;
+}
+
+.button{
+    background-color: #1f71a1;
+    border-radius: 5px;
+    font-size: 12px;
+}
+
+.testimonial{
+    background-color: #e5e5e5;
+}
+
+.mx-2{
+    margin-top: 260px;
+    margin-bottom: 0px;
+}
